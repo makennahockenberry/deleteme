@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* 
+ * NEW COMMENT!!!
  *   This is a c program to create a red and blue plain pixel map.
  *   Usage: 
  * 
